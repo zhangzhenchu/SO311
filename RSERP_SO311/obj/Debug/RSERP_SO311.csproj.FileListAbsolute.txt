@@ -1,0 +1,13 @@
+E:\develop\RS\RSERP\SO311\RSERP_SO311\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\RS\RSERP\SO311\RSERP_SO311\obj\Debug\RSERP_SO311.frm311.resources
+E:\develop\RS\RSERP\SO311\RSERP_SO311\obj\Debug\RSERP_SO311.frmMessege.resources
+E:\develop\RS\RSERP\SO311\RSERP_SO311\obj\Debug\RSERP_SO311.Properties.Resources.resources
+E:\develop\RS\RSERP\SO311\RSERP_SO311\obj\Debug\RSERP_SO311.csproj.GenerateResource.Cache
+E:\develop\RS\RSERP\SO311\RSERP_SO311\bin\Debug\RSERP_SO311.exe
+E:\develop\RS\RSERP\SO311\RSERP_SO311\bin\Debug\RSERP_SO311.pdb
+E:\develop\RS\RSERP\SO311\RSERP_SO311\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\develop\RS\RSERP\SO311\RSERP_SO311\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\develop\RS\RSERP\SO311\RSERP_SO311\bin\Debug\office.dll
+E:\develop\RS\RSERP\SO311\RSERP_SO311\bin\Debug\RSERPLogin.dll
+E:\develop\RS\RSERP\SO311\RSERP_SO311\obj\Debug\RSERP_SO311.exe
+E:\develop\RS\RSERP\SO311\RSERP_SO311\obj\Debug\RSERP_SO311.pdb
